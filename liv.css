@@ -1,0 +1,29 @@
+h1 {
+	color: rgb(175, 11, 11);
+	font-family: Algerian;
+}
+
+u {
+	color: rgb(175, 11, 11);
+}
+
+h2 {
+	color: rgb(0, 170, 99);
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+p {
+	color: red;
+}
+
+h3 {
+	color: rgb(0, 170, 99);
+}
+
+ul {
+	color: red;
+}
