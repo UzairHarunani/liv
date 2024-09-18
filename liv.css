@@ -27,3 +27,8 @@ h3 {
 ul {
 	color: red;
 }
+
+img {
+	position: relative;
+	top: 15px;
+}
