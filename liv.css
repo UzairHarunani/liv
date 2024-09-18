@@ -1,6 +1,7 @@
 h1 {
 	color: rgb(175, 11, 11);
 	font-family: Algerian;
+	font-size: 40px;
 }
 
 u {
@@ -31,4 +32,6 @@ ul {
 img {
 	position: relative;
 	top: 15px;
+	margin-right: -10px;
+	margin-left: -50px;
 }
